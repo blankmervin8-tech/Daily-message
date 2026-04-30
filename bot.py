@@ -3,7 +3,7 @@ import schedule
 import time
 from telegram import Bot
 
-BOT_TOKEN = "8386118060:AAFxIr9vwBhZQxua1SKVyFVczixvNhdvXgQ
+BOT_TOKEN = "8386118060:AAFxIr9vwBhZQxua1SKVyFVczixvNhdvXgQ"
 CHAT_ID = "-1001263402382"
 IMAGE_URL = "https://i.imgur.com/I6E1oN2.png"
 MESSAGE = "Kayaks for rent!!! 🌊🚣\n13 single kayaks and double kayak available!! Canoe and trailer also available.. $30 a day,$25 for additional days.. call or text 484-340-8966"
