@@ -16,7 +16,7 @@ async def send_message():
 def job():
     asyncio.run(send_message())
 
-schedule.every().day.at(SEND_TIME).do(job)
+schedule.every(2).days.at(SEND_TIME).do(job)
 
 while True:
     schedule.run_pending()
